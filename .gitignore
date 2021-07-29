@@ -1,14 +1,15 @@
 SurvivalHorror/Content/AssetsPack/*
 SurvivalHorror/Intermediate/*
 SurvivalHorror/Binaries/*
-SurvivalHorror/Config/*
 SurvivalHorror/DerivedDataCache/*
 SurvivalHorror/Saved/*
 SurvivalHorror/.vs/SurvivalHorror/*
-SurvivalHorror/VehicleVarietyPack/*
-SurvivalHorror/PN_interactiveSpruceForest/*
+SurvivalHorror/Content/VehicleVarietyPack/*
+SurvivalHorror/Content/StarterContent/*
+SurvivalHorror/Content/PN_interactiveSpruceForest/*
 # macOS
 .DS_Store
 SurvivalHorror/.vs/SurvivalHorror/v16/Browse.VC.db
 SurvivalHorror/.vs/SurvivalHorror/v16/.suo
 *.log
+SurvivalHorror/SurvivalHorror.sln
